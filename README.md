@@ -3,8 +3,4 @@ An app for detecting objects in the surroundings of users with visual impairment
 
 ## :camera_flash: Screenshots from the app
 
-<img src="https://user-images.githubusercontent.com/65572088/175773183-42b577ab-8909-4723-91f3-13c4c2db6877.jpg" width="260">
-![Screenshot_20220609-004811_Object Detector](https://user-images.githubusercontent.com/65572088/175773183-42b577ab-8909-4723-91f3-13c4c2db6877.jpg)
-![Screenshot_20220606-233437_Object Detector](https://user-images.githubusercontent.com/65572088/175773202-e3f0c4a2-61f2-44ea-a806-abc51b8b0310.jpg)
-![Screenshot_20220609-004811_Object Detector](https://user-images.githubusercontent.com/65572088/175773209-4a3aa779-e312-4647-a160-7d0f985712fd.jpg)
-![Screenshot_20220609-004033_Object Detector](https://user-images.githubusercontent.com/65572088/175773216-a21b09cd-146d-4fa9-863e-fe59c67962d4.jpg)
+<img src="https://user-images.githubusercontent.com/65572088/175773183-42b577ab-8909-4723-91f3-13c4c2db6877.jpg" width="260">&emsp;<img src="https://user-images.githubusercontent.com/65572088/175773202-e3f0c4a2-61f2-44ea-a806-abc51b8b0310.jpg" width="260">&emsp;<img src="https://user-images.githubusercontent.com/65572088/175773209-4a3aa779-e312-4647-a160-7d0f985712fd.jpg" width="260">&emsp;<img src="https://user-images.githubusercontent.com/65572088/175773216-a21b09cd-146d-4fa9-863e-fe59c67962d4.jpg" width="260">
